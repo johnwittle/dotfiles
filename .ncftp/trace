@@ -1,0 +1,93 @@
+SESSION STARTED at:  2012-02-24 11:24:11 PST -0800
+Program Version:     NcFTP 3.2.4/465 Apr 07 2010, 06:24 PM compiled for linux-x86_64-glibc2.10
+Compiled for:        linux-x86_64-glibc2.10
+Process ID:          11382
+Hostname:              (rc=-2)
+Terminal:            screen
+11:24:11  Fw: firewall.domain.com  Type: 0  User: john  Pass: ********  Port: 21
+11:24:11  FwExceptions: .probe.net,localhost,foo.bar.com,localdomain
+11:24:11  NOTE:  Your domain name could not be detected.
+11:24:20  > connect 46.105.114.202:21
+
+11:24:28  > open 46.105.114.202:21
+
+11:24:28  Resolving 46.105.114.202:21...
+11:24:33  > open 46.105.114.202 -p 21
+
+11:24:33  Resolving 46.105.114.202...
+11:24:33  Connecting to 46.105.114.202...
+11:24:33  LibNcFTP 3.2.4 (April 3, 2010) compiled for linux-x86_64-glibc2.10
+11:24:33  Uname: Linux|soupwhale|2.6.32-5-amd64|#1 SMP Thu Nov 3 03:41:26 UTC 2011|x86_64
+11:24:33  Contents of /etc/debian_version:
+11:24:33    6.0.4
+11:24:33  Contents of /etc/issue:
+11:24:33    Sorry about that. I accidentally forkbombed the server. Bringing services back up right now.
+11:24:33  Glibc: 2.11.3 (stable)
+11:24:33  Logging in...
+11:24:33  220: Multicraft b1.4.0 FTP server
+11:24:33  Connected to 46.105.114.202.
+11:24:33  Cmd: USER anonymous
+11:24:33  331: Username ok, send password.
+11:24:33  Cmd: PASS NcFTP@
+11:24:39  530: Authentication failed.
+11:24:39  Cmd: QUIT
+11:24:39  221: Goodbye.
+11:24:39  Sleeping 20 seconds.
+11:24:39  Sleeping 20 seconds...
+11:24:40  Caught signal 2, back at top.
+11:25:00  > connect 46.105.114.202 -p 21 -u megopserver@gmail.com.1704 -p CwGa9v8n23
+
+11:25:07  > open 46.105.114.202 -p 21 -u megopserver@gmail.com.1704 -p CwGa9v8n23
+
+11:25:07  Resolving 46.105.114.202...
+11:25:07  Connecting to 46.105.114.202...
+11:25:07  LibNcFTP 3.2.4 (April 3, 2010) compiled for linux-x86_64-glibc2.10
+11:25:07  Uname: Linux|soupwhale|2.6.32-5-amd64|#1 SMP Thu Nov 3 03:41:26 UTC 2011|x86_64
+11:25:07  Contents of /etc/debian_version:
+11:25:07    6.0.4
+11:25:07  Contents of /etc/issue:
+11:25:07    Sorry about that. I accidentally forkbombed the server. Bringing services back up right now.
+11:25:07  Glibc: 2.11.3 (stable)
+11:25:08  Logging in...
+11:25:08  220: Multicraft b1.4.0 FTP server
+11:25:08  Connected to 46.105.114.202.
+11:25:08  Cmd: USER anonymous
+11:25:08  331: Username ok, send password.
+11:25:08  Cmd: PASS NcFTP@
+11:25:13  530: Authentication failed.
+11:25:13  Cmd: QUIT
+11:25:13  221: Goodbye.
+11:25:13  Sleeping 19 seconds.
+11:25:13  Sleeping 19 seconds...
+11:25:14  Caught signal 2, back at top.
+11:25:27  > open 46.105.114.202:21 -u megopserver@gmail.com.1704 -p CwGa9v8n23
+
+11:25:27  Resolving 46.105.114.202:21...
+11:25:33  > open 46.105.114.202 -u megopserver@gmail.com.1704 -p CwGa9v8n23
+
+11:25:33  Resolving 46.105.114.202...
+11:25:33  Connecting to 46.105.114.202...
+11:25:33  LibNcFTP 3.2.4 (April 3, 2010) compiled for linux-x86_64-glibc2.10
+11:25:33  Uname: Linux|soupwhale|2.6.32-5-amd64|#1 SMP Thu Nov 3 03:41:26 UTC 2011|x86_64
+11:25:33  Contents of /etc/debian_version:
+11:25:33    6.0.4
+11:25:33  Contents of /etc/issue:
+11:25:33    Sorry about that. I accidentally forkbombed the server. Bringing services back up right now.
+11:25:33  Glibc: 2.11.3 (stable)
+11:25:33  Logging in...
+11:25:33  220: Multicraft b1.4.0 FTP server
+11:25:33  Connected to 46.105.114.202.
+11:25:33  Cmd: USER anonymous
+11:25:33  331: Username ok, send password.
+11:25:33  Cmd: PASS NcFTP@
+11:25:38  530: Authentication failed.
+11:25:38  Cmd: QUIT
+11:25:39  221: Goodbye.
+11:25:39  Sleeping 20 seconds.
+11:25:39  Sleeping 20 seconds...
+11:25:40  Caught signal 2, back at top.
+11:55:43  > 
+
+11:55:44  > quit
+
+SESSION ENDED at:    Fri Feb 24 11:55:44 2012

@@ -1,0 +1,24 @@
+SESSION STARTED at:  2011-05-18 23:28:44 PDT -0700
+Program Version:     NcFTP 3.2.4/465 Apr 07 2010, 06:24 PM compiled for linux-x86_64-glibc2.10
+Compiled for:        linux-x86_64-glibc2.10
+Process ID:          12217
+Hostname:              (rc=-2)
+Terminal:            xterm-color
+23:28:44  Fw: firewall.domain.com  Type: 0  User: john  Pass: ********  Port: 21
+23:28:44  FwExceptions: .probe.net,localhost,foo.bar.com,localdomain
+23:28:44  NOTE:  Your domain name could not be detected.
+23:28:44  Resolving ftp-dom.earthlink.net...
+23:28:44  Connecting to 207.217.111.95...
+23:28:44  LibNcFTP 3.2.4 (April 3, 2010) compiled for linux-x86_64-glibc2.10
+23:28:44  Uname: Linux|debian|2.6.32-5-amd64|#1 SMP Mon Mar 7 21:35:22 UTC 2011|x86_64
+23:28:44  Contents of /etc/debian_version:
+23:28:44    6.0.1
+23:28:44  Contents of /etc/issue:
+23:28:44    Debian GNU/Linux 6.0 \n \l
+23:28:44  Glibc: 2.11.2 (stable)
+23:28:44  Logging in...
+23:28:44  220: ready
+23:28:44  Connected to 207.217.111.95.
+23:28:44  Cmd: USER anonymous
+23:28:44  331: Password required for anonymous.
+23:28:44  Cmd: PASS NcFTP@

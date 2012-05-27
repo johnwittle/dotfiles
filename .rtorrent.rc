@@ -1,0 +1,8 @@
+session = ~/.sessions
+schedule = watch_directory_1,10,10,"load_start=~/torrents/music/*.torrent,d.set_custom1=~/audio"
+schedule = watch_directory_2,10,10,"load_start=~/torrents/movies/*.torrent,d.set_custom1=~/video"
+schedule = watch_directory_3,10,10,"load_start=~/torrents/old/*.torrent,d.set_custom1=~/torrents"
+schedule = watch_directory_4,10,10,"load_start=~/torrents/porntorrents/*.torrent,d.set_custom1=~/torrents/porn"
+done_fg_color = 5
+active_fg_color = 1
+#black red green yellow blue majenta cyan white

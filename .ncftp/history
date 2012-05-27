@@ -1,0 +1,9 @@
+ls
+get -R *
+ls
+exit
+connect 46.105.114.202:21
+open 46.105.114.202:21
+connect 46.105.114.202 -p 21 -u megopserver@gmail.com.1704 -p CwGa9v8n23
+open 46.105.114.202:21 -u megopserver@gmail.com.1704 -p CwGa9v8n23
+quit

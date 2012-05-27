@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/edstaranalytics.biz/www/app_em_tenn'
+let g:netrw_dirhist_2='/home/edstaranalytics.biz/www/app_em_tenn/class'
+let g:netrw_dirhist_3='/home/edstaranalytics.biz/www/app_em_tenn'
+let g:netrw_dirhist_4='/home/edstaranalytics.biz/www/app_em_tenn/file'
+let g:netrw_dirhist_5='/home/edstaranalytics.biz/www/app_em_tenn'
+let g:netrw_dirhist_6='/home/edstaranalytics.biz/www'
+let g:netrw_dirhist_7='/home/john/.weechat'
+let g:netrw_dirhist_8='/etc/apache2'

@@ -1,0 +1,24 @@
+SESSION STARTED at:  2011-05-18 23:26:44 PDT -0700
+Program Version:     NcFTP 3.2.4/465 Apr 07 2010, 06:24 PM compiled for linux-x86_64-glibc2.10
+Compiled for:        linux-x86_64-glibc2.10
+Process ID:          12213
+Hostname:              (rc=-2)
+Terminal:            xterm-color
+23:26:44  Fw: firewall.domain.com  Type: 0  User: john  Pass: ********  Port: 21
+23:26:44  FwExceptions: .probe.net,localhost,foo.bar.com,localdomain
+23:26:44  NOTE:  Your domain name could not be detected.
+23:26:44  Resolving edstar.biz...
+23:26:44  Connecting to 207.217.125.50...
+23:26:44  LibNcFTP 3.2.4 (April 3, 2010) compiled for linux-x86_64-glibc2.10
+23:26:44  Uname: Linux|debian|2.6.32-5-amd64|#1 SMP Mon Mar 7 21:35:22 UTC 2011|x86_64
+23:26:44  Contents of /etc/debian_version:
+23:26:44    6.0.1
+23:26:44  Contents of /etc/issue:
+23:26:44    Debian GNU/Linux 6.0 \n \l
+23:26:44  Glibc: 2.11.2 (stable)
+23:27:04  Could not connect to 207.217.125.50 -- try again later: Connection timed out.
+23:27:04  Retry Number: 1
+23:27:04  Redialing (try 1)...
+23:27:25  Could not connect to 207.217.125.50 -- try again later: Connection timed out.
+23:27:25  Retry Number: 2
+23:27:25  Redialing (try 2)...
